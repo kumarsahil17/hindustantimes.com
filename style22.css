@@ -1,0 +1,454 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #011E29;
+    color: white;
+    padding: 20px;
+    height: 100px;}
+
+   
+
+header h1 {
+    margin: 0;
+    text-align: center;
+      
+}
+h2{
+    border-bottom: 1px solid  #c2c2c2;
+}
+
+nav div {
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;  
+    margin-left: -21px;
+    margin-right: -21px;
+    height: 55px;
+    margin-bottom: -22px;
+  }
+
+  nav div{
+    background-color: #fff;
+    display: -moz-inline-box;
+    box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    -moz-box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    -o-box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    border-radius: 4px;
+    -webkit-border-radius: 0px;
+-moz-border-radius: 4px;
+-o-border-radius: 4px
+  }
+
+nav ul li  {
+    display:inline;
+   
+}
+nav ul li a{
+    text-decoration: none;
+    margin-left: 21px;
+}
+
+nav ul li a{ 
+background-color: #fff;
+color:#212121;
+font-size: 14px;
+font-family: "Lato",sans-serif;
+font-weight: 700;
+text-transform: capitalize;
+white-space: nowrap;
+line-height: 52px;
+}
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.content{
+    background-color: #fff;
+    display: -moz-inline-box;
+    box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    -moz-box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    -o-box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+-o-border-radius: 4px
+
+}
+.content{
+    padding: 10px;
+margin-top: 19px;
+}
+.content2{
+    background-color: #fff;
+    display: -moz-inline-box;
+    box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    -moz-box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    -o-box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+-o-border-radius: 4px;
+padding: 10px;
+margin-top: 19px;
+}
+footer {
+    background-color:#011E29;
+    color: white;
+    padding: 10px;
+    height: 194px;
+}
+.ht-logo{
+        width: 31%;
+        height: 79px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+.bottomlogo{
+    height:52px;
+    display: block;
+    width: 404px;
+}
+p{
+    color: #424242;
+font-size: 16px;
+line-height: 22px;
+font-family: "Lato",sans-serif;
+padding: 8px 0;
+}
+button{
+    background-color: #fff;
+    color: #011e29;
+    font-weight: 700;
+    font-size: 14px;
+    text-decoration: none;
+    font-family: "Lato",sans-serif;
+    height: 27px;
+    border: none;
+    line-height: 13px;
+    border-radius: 2px;
+        display: block;}
+button{
+    position: relative;
+    top: 55px;
+    left: 331px;
+}
+.headSpanTxt{
+ display: block;
+ margin-right: -324px;
+ font-size: 14px;
+ line-height:  131px;
+}
+
+label.footerSubscribe{
+    display: block;
+    font-family:"lato",sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 17px;
+     margin-left: -15px;
+    }
+.htcapsule{
+    background-color: #fff;
+    color: #011e29;
+    font-weight: 700;
+    font-size: 17px;
+    text-decoration: none;
+    font-family: "Lato",sans-serif;
+    height: 40px;
+    border: none;
+    line-height: 13px;
+    border-radius: 3px;
+        display: block;
+        top: 7px;
+     left: 2px;
+}
+.email{
+        height: 40px;
+        width: 316px;
+        background-color: #fff;
+        padding: 10px;
+        margin-left: 7px;
+        font-family: "Lato",sans-serif;
+        color: #424242;
+        font-size: 14px;
+        font-weight: 400;
+        border-radius: 3px;
+        text-align:start;
+        top: 7px;
+       left: 2px;
+    }
+    .email{
+        display: block;
+        margin-right: 9px;
+        border: none;
+    }
+.lastfoot{
+
+        width: 99px;
+        height: 40px;
+        background-color: #011E29;
+        color: #fff;
+        border: 1px solid #fff;
+        top: 7px;
+       left:2px;
+    }
+    .copyright{
+            text-align: center;
+            font-size: 14px;
+            font-weight: 400;
+            border-bottom: 1px solid #c2c2c2;
+            padding: 12px 0;
+            }
+             
+    #copysymbol{
+        color:#c2c2c2;
+            border-top: 1px solid #3e3e3e;
+
+        }
+        nav ul li a:hover{
+            color: #00b1cd;
+        }
+
+    .person{
+        display: block;
+        float:right;
+        margin-left: 30px; 
+    }
+    .newspaper{
+        display: block;
+        float:right;
+        margin-left: 30px;
+    }
+.controller{
+    display: block;
+        float:right;
+        margin-left: 30px;
+}
+
+  .Explore
+  {
+    display: block;
+        float:left;
+        margin-left: 30px;
+        margin-top: 6px;
+
+  }
+
+  .Search{
+    display: block;
+        float:left;
+        margin-left: 30px;
+        margin-top: 7px;
+  }
+span{
+    font-size: 14px;
+    display: -webkit-flex;
+    color: #f6f6f6;
+font-weight: 700;
+text-decoration: none;
+margin-left: 5px;
+margin-top:5px;
+cursor: pointer;
+}
+
+.list2{
+    margin-left: 1px;
+}
+.list3{
+    margin-left: 1px;
+}
+
+.getapp{
+display: none;
+}
+
+
+.G20logo{
+width: 752px;
+
+}
+
+.dk{
+    width: 752px;
+}
+
+
+
+@media screen and (max-width:1024px){
+    header{
+    background-color: #011E29;
+    color :#fff
+    }
+    
+ nav div{ background-color: #fff;
+    display: -moz-inline-box;
+    box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    -moz-box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    -o-box-shadow: 0 0 6px 0 rgba(121,121,121,0.3);
+    border-radius: 4px;
+    -webkit-border-radius: 0px;
+-moz-border-radius: 4px;
+-o-border-radius: 4px
+}
+nav div{
+    margin-top: 52px;
+}
+.ht-logo{
+   
+    display: block;
+   width: 26vh;
+    height:4vh;}
+
+
+   nav ul li a{
+    margin-left: 22px;
+    margin-right: -38px;
+    cursor: pointer;
+  }
+
+
+ button{
+    display: none;
+ }
+
+ span{
+    display: none;
+ }
+    .headSpanTxt{
+        display: none;
+    }
+ 
+    .controller{
+        display: none;
+    }
+
+    .person{
+        display: none;
+    }
+
+    .newspaper{
+        display: none;
+    }
+    .Explore{
+        display:block;
+        float: left;
+        width: 20px;
+        height: 20px;
+    }
+     .Search{display: block;
+    float: right;}
+
+
+.scrollmenu{
+    background-color: #fff;
+    overflow-x: auto;
+    white-space: nowrap;
+    color: #011E29;
+    margin-left: -90px;
+    
+}
+
+  div.scrollmenu a {
+    display: inline-block;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    width: auto;
+    line-height: 1px;
+  }
+
+.content{
+    max-width: 800px;
+   margin-left: -20px;
+   margin-right: -20px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+
+.content2{
+    max-width: 800px;
+    margin-left: -20px;
+    margin-right: -20px;
+     padding: 20px;
+}
+
+
+.bottomlogo{
+    height: 34px;
+display: block;
+width: 236px;
+}
+
+label.footerSubscribe{
+    font-size: 12px;
+margin-top: -14px;
+}
+
+.htcapsule{
+    display: none;
+}
+
+
+    .email {
+        display: block;
+        margin-left: -2px;
+        height: auto;
+        width: 228px;
+        margin-top: -17px;
+    }
+
+
+    .copyright{
+        margin-top: 54px;
+    }
+
+.G20logo{
+    width: 332px;
+}
+
+.dk{
+    width:332px;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+    
+
